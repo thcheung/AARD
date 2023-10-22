@@ -1,5 +1,5 @@
 # AARD
-The official code of paper, "Simultaneous Rumour and Malicious Account Detection on Social Media", sumitted to IEEE Intellient Systems.
+The official code of paper, "Author-Aware Rumour Detection with Layer-Wise Parameter-Efficient Tuning and Incomplete Feature Learning", sumitted to IEEE Access.
 
 
 ## Datasets
