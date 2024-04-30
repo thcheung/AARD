@@ -14,7 +14,7 @@ Please cite my thesis if you found this project useful.
 ```
 @article{cheung2024deep,
   title={Deep learning for rumour detection and claim veracity assessment on social media},
-  author={Cheung, Tsun Hin and others},
+  author={Cheung, Tsun Hin},
   year={2024},
   publisher={Hong Kong Polytechnic University}
 }
